@@ -42,6 +42,7 @@
 ## Tableau Dashboard Image:
 ![Outlook](https://github.com/mohamedbasith30122001/Airbnb_Analysis/blob/main/Airbnb_project_github/Dashboard%201.png)
 ## Tableau Dashboard Link:
+[Click to view my Dashboard](https://public.tableau.com/app/profile/mohamedbasith.a/viz/sheet1_16990248307520/Dashboard1?publish=yes)
 # Conclusion:
 - I Created the project to used to detecting the  information to visualize the Tableau.
 - It mostly  helped as customer knows about **Airbnb** price,locations,room,bed,prototype,country and host name,host id.. to easly interact with travel,tourism and other works.
