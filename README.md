@@ -40,7 +40,7 @@
 - **Data Visualization** and **Exploration** to visualize information also like as tableau viualization information  using  streamlit plots.
 # Tableau Visualization:
 ## Tableau Dashboard Image:
-
+![Outlook](https://github.com/mohamedbasith30122001/Airbnb_Analysis/blob/main/Airbnb_project_github/Dashboard%201.png)
 ## Tableau Dashboard Link:
 # Conclusion:
 - I Created the project to used to detecting the  information to visualize the Tableau.
