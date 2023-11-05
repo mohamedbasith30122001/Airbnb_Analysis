@@ -4,6 +4,7 @@
 - Airbnb Analysis: Extracting data in MongoDB using  with Tableau Overview.Airbnb Analysis is a  web application which anlaysis data using tableau to improve customer interaction .
 - Users can easly  analysis the information of a tourism,room booking,price prediction,country and locations difference between price and country and prototype and room type, and related columns to get the Tourism and Traveling  information.
 - then displayed in a user-friendly format and can be seen in a Tableau or Streamlit  for future reference.
+This project is an exploration and analysis of Airbnb data with a focus on geospatial and exploratory data analysis. It includes interactive visualizations, statistical insights, and recommendations for users interested in Airbnb accommodations in specific countries and cities.
 # Domain:
 - Travel Industry, Property Management and Tourism
 # Problem statement:
