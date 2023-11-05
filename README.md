@@ -20,7 +20,7 @@
 - **Home** : Displays an overview of the app including technologies used and a brief description of the app.
 - **Tableau** : This section allows the user to interact the data  with tableau user can understand the airbnb offers and travel and tourism data. Example : price prediction,locaton based insights and bedtype, roomtype, property type and rating(review score) then host name,host id and country to select and choose easly using this tableau visualization.
 - **Basic Overveiw** : its also like as tableau visulization but manly shows data top 10 and average informations.
-- **Data Visualization** and **Exploration** to visualize information also using  streamlit plots.                  
+- **Data Visualization** and **Exploration** to visualize information also like as tableau viualization information  using  streamlit plots.                  
 # Conclusion:
 - I Created the project to used to detecting the  information to visualize the Tableau.
 - It mostly  helped as customer knows about **Airbnb** price,locations,room,bed,prototype,country and host name,host id.. to easly interact with travel,tourism and other works.
