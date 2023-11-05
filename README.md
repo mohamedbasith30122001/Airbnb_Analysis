@@ -14,15 +14,33 @@
 - Analyze availability patterns across seasons, visualizing occupancy rates and demand fluctuations using suitable visualizations.
 - Create interactive visualizations that enable users to filter and drill down into the data.
 - Build a comprehensive dashboard using Tableau or Power BI, combining various visualizations to present key insights from the analysis.
+## Libraries
+### Libraries/Modules needed for the project!
+- Plotly, Seaborn - (To plot and visualize the data)
+- Pandas - (To Clean and maipulate the data)
+- Pymongo - (To store and retrieve the data by connecting with MongoDB Atlas)
+- Streamlit - (To Create Graphical user Interface)
 # Problem solution:
 ## what i did for project solution:
-- Create a Streamlit web app and using technologies Pandas, PIL,plotly.express (px) libraries in imported  setup and running Features .
+## workflow:
+#### Step 1 :
+- Establish a connection to the MongoDB Atlas database and retrieve the Airbnb dataset. 
+#### Step 2 : 
+- Clean the Airbnb dataset by handling missing values, removing duplicates, and transforming data types as necessary. Prepare the dataset for EDA and visualization tasks, ensuring data integrity and consistency.
+#### Step 3 :
+- Develop a streamlit web application that utilizes the geospatial data from the Airbnb dataset to create interactive maps.using technologies Pandas, PIL,plotly.express (px) libraries in imported  setup and running Features.
+#### Step 4 :
+  Use the cleaned data to analyze and visualize how prices vary across different locations, property types, and seasons. Create dynamic plots and charts that enable users to explore price trends, outliers, and correlations with other variables.
+#### Step 5 :
+- Utilize Tableau  to create a comprehensive dashboard that presents key insights from your analysis. Combine different visualizations, such as maps, charts, and tables, to provide a holistic view of the Airbnb dataset and its patterns.
+#### Streamlit Dashboard workflow:
 - **Home** : Displays an overview of the app including technologies used and a brief description of the app.
 - **Tableau** : This section allows the user to interact the data  with tableau user can understand the airbnb offers and travel and tourism data. Example : price prediction,locaton based insights and bedtype, roomtype, property type and rating(review score) then host name,host id and country to select and choose easly using this tableau visualization.
 - **Basic Overveiw** : its also like as tableau visulization but manly shows data top 10 and average informations.
 - **Data Visualization** and **Exploration** to visualize information also like as tableau viualization information  using  streamlit plots.
 # Tableau Visualization:
 ## Tableau Dashboard Image:
+
 ## Tableau Dashboard Link:
 # Conclusion:
 - I Created the project to used to detecting the  information to visualize the Tableau.
