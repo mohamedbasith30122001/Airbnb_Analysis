@@ -46,3 +46,5 @@
 - I Created the project to used to detecting the  information to visualize the Tableau.
 - It mostly  helped as customer knows about **Airbnb** price,locations,room,bed,prototype,country and host name,host id.. to easly interact with travel,tourism and other works.
 - Customer can easly choose our affortable country to select affortable price and  their rating(review_scores). to visualizing the tableau and seeing informations.
+- Through this exploratory data analysis and visualization project, we gained several interesting insights into the Airbnb rental market. Below we will summarise the answers to the questions that we wished to answer at the beginning of the project:
+- How do prices of listings vary by location? What localities in Countries are rated highly by guests? Spain has the low rentals and high rating and all property type by varying prices to  compared to the other boroughs. Prices are higher for rentals closer to city hotspots. Rentals that are rated highly on the location by the host also have higher prices.
