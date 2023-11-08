@@ -38,7 +38,7 @@ This project is an exploration and analysis of Airbnb data with a focus on geosp
 - **Home** : Displays an overview of the app including technologies used and a brief description of the app.
 - **Tableau** : This section allows the user to interact the data  with tableau user can understand the airbnb offers and travel and tourism data. Example : price prediction,locaton based insights and bedtype, roomtype, property type and rating(review score) then host name,host id and country to select and choose easly using this tableau visualization.
 - **Basic Overveiw** : its also like as tableau visulization but manly shows data top 10 and average informations.
-- **Data Visualization** and **Exploration** to visualize information also like as tableau viualization information  using  streamlit plots.
+- **Data Visualization** and **Exploration** to visualize information also like as tableau visualization information  using  streamlit plots.
 # Tableau Visualization:
 ## Tableau Dashboard Image:
 ![Outlook](https://github.com/mohamedbasith30122001/Airbnb_Analysis/blob/main/Airbnb_project_github/Dashboard%201.png)
